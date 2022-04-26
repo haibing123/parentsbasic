@@ -1,0 +1,42 @@
+{
+  "version": "3.60.26947.0",
+  "course_id": "6dTLbM7m50q",
+  "title": "Sorting Risks and Harms",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "66oLSUC2bL5",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Ku3lQImcGT",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "61Ow9bre51r",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6Ysw7YZSgII",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1540,
+    "height": 791
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}

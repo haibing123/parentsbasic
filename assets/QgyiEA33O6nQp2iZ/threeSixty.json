@@ -1,0 +1,27 @@
+{
+  "version": "3.60.26947.0",
+  "course_id": "5m7yYlWGtwF",
+  "title": "DragNDropApps",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6A4klIeoAAj",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 814
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
